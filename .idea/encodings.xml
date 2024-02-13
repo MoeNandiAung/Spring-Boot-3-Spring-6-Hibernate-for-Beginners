@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/01-spring-boot-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/02-dev-tools-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/03-actuator-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/04-spring-security-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/05-command-line-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01-spring-boot-overview/06-properties-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/01-constructor-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/02-components-scanning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifiers-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/05-primary-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/06-lazy-initialization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/07-bean-scopes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/08-bean-life-cycle-methods/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-spring-core/09-bean-config-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-JPA-CRUD/01-cruddemo-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-REST/01-spring-boot-REST-CRUD/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-REST/02-spring-boot-rest-crud-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-REST/03-spring-boot-rest-crud-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-REST/04-spring-boot-rest-crud-with-spring-data-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-spring-boot-rest-security/01-spring-boot-rest-security-employee-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-validation-demo/validationdemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc/thymeleafdemo-spring-mvc-helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring-boot-spring-mvc-crud/00-spring-boot-spring-mvc-crud-starter-code/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security-default/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-advanced-mapping/01-jpa-one-to-one-uni/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-advanced-mapping/02-jpa-one-to-one-Bi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-advanced-mapping/03-jpa-one-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-advanced-mapping/04-jpa-one-to-many-uni/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10-spring-boot-advanced-mapping/05-jpa-many-to-many-uni/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-boot-aop/01-spring-boot-aop-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-boot-aop/02-spring-boot-aop-demo-pointcut-declaration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11-spring-boot-aop/03-spring-boot-mvc-crud-aop/src/main/java" charset="UTF-8" />
+  </component>
+</project>
